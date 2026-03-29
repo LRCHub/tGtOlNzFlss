@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Bigger Person",
+  "base_artist": "Lauren Spencer Smith",
+  "createdAt": "2026-03-29T21:33:42.993198Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bigger Person",
+      "artist": "Ali Gatie",
+      "has_synced": true,
+      "path": "select/01_Bigger_Person_Ali_Gatie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bigger Person",
+      "artist": "Lauren Spencer Smith",
+      "has_synced": true,
+      "path": "select/02_Bigger_Person_Lauren_Spencer_Smith.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bigger Person",
+      "artist": "Kita Alexander",
+      "has_synced": true,
+      "path": "select/03_Bigger_Person_Kita_Alexander.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lauren Spencer Smith - Bigger Person (Lyrics)",
+      "artist": "NewMelody",
+      "has_synced": true,
+      "path": "select/04_Lauren_Spencer_Smith_-_Bigger_Person_(Lyrics)_NewMelody.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lauren Spencer Smith - Bigger Person (Lyrics)",
+      "artist": "Unique Sound",
+      "has_synced": true,
+      "path": "select/05_Lauren_Spencer_Smith_-_Bigger_Person_(Lyrics)_Unique_Sound.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lauren Spencer Smith - Bigger Person (Lyrics)",
+      "artist": "daydream.",
+      "has_synced": true,
+      "path": "select/06_Lauren_Spencer_Smith_-_Bigger_Person_(Lyrics)_daydream..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lauren Spencer Smith - Bigger Person (Lyrics)",
+      "artist": "VibesOnly",
+      "has_synced": true,
+      "path": "select/07_Lauren_Spencer_Smith_-_Bigger_Person_(Lyrics)_VibesOnly.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ali Gatie - Bigger Person (Official Music Lyric Video)",
+      "artist": "Ali Gatie",
+      "has_synced": true,
+      "path": "select/08_Ali_Gatie_-_Bigger_Person_(Official_Music_Lyric_Video)_Ali_Gatie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lauren Spencer Smith - Bigger Person (Lyric Video)",
+      "artist": "Lauren Spencer Smith",
+      "has_synced": true,
+      "path": "select/09_Lauren_Spencer_Smith_-_Bigger_Person_(Lyric_Video)_Lauren_Spencer_Smith.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bigger Person",
+      "artist": "Will Gittens",
+      "has_synced": false,
+      "path": "select/10_Bigger_Person_Will_Gittens.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bigger Person",
+      "artist": "Lauren Spencer Smith",
+      "has_synced": true,
+      "path": "select/11_Bigger_Person_Lauren_Spencer_Smith.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lauren Spencer Smith - Bigger Person (Lyrics)",
+      "artist": "Unique Sound",
+      "has_synced": true,
+      "path": "select/12_Lauren_Spencer_Smith_-_Bigger_Person_(Lyrics)_Unique_Sound.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bigger Person",
+      "artist": "Lauren Spencer Smith",
+      "has_synced": true,
+      "path": "select/13_Bigger_Person_Lauren_Spencer_Smith.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "BIGGER PERSON.",
+      "artist": "Armani White",
+      "has_synced": true,
+      "path": "select/14_BIGGER_PERSON._Armani_White.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bigger Person",
+      "artist": "Lauren Spencer Smith",
+      "has_synced": false,
+      "path": "select/pl_01_Bigger_Person_Lauren_Spencer_Smith.txt"
+    }
+  ]
+}
